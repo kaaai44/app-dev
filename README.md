@@ -1,9 +1,9 @@
 # app-dev
  My First Repository
 # About The Movie
-**Genre: Science Fiction, Action, Mystery**
-**Director: Wes Ball**
-**Release Year: 2014**
+- Genre: Science Fiction, Action, Mystery
+- Director: Wes Ball
+- Release Year: 2014
 # My Favorite Movie
 The Maze Runner
     The Maze Runner follows a teenager named Thomas who wakes up in a mysterious place called the Glade with no memory of his past. He and other boys must survive while trying to escape a deadly maze filled with dangerous creatures known as Grievers.
